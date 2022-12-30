@@ -49,7 +49,7 @@ public class Pizza {
 
     public void addExtraToppings(){
         // your code goes here
-    	if(isToppingAdded==false && isCheeseAdded==true)
+    	if(isToppingAdded==false )
     	{
     	if(isVeg==true)
     	{
